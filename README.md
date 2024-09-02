@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikhyakubhossain" alt="shaikhyakubhossain" /></a> </p>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/shaikhyakubhossain/chat-app)
+🔭 I’m currently working on [Chat App](https://github.com/shaikhyakubhossain/chat-app)
 
 🌱 I’m currently learning NextJS, ReactJS<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me shaikhyakubhossain@gmail.com<br><br>📄 Know about my experiences https://resume-website-next-js.vercel.app/
 
