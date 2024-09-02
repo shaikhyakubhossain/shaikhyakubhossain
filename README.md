@@ -7,13 +7,8 @@
 
 - 🔭 I’m currently working on [Chat App](https://github.com/shaikhyakubhossain/chat-app)
 
-- 🌱 I’m currently learning **NextJS, ReactJS**
+🌱 I’m currently learning NextJS, ReactJS<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me shaikhyakubhossain@gmail.com<br><br>📄 Know about my experiences https://resume-website-next-js.vercel.app/
 
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **shaikhyakubhossain@gmail.com**
-
-- 📄 Know about my experiences [https://resume-website-next-js.vercel.app/](https://resume-website-next-js.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
