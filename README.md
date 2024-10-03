@@ -28,7 +28,7 @@
 <p><img style="display: block; margin: auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhyakubhossain&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 ## 🏆 GitHub Trophies
-<p><img style="display: block; margin: auto;" align="center" src="[https://github-profile-trophy.vercel.app/?username=shaikhyakubhossain&theme=dracula&no-frame=true&no-bg=false&margin-w=4](https://github-profile-trophy.vercel.app/?username=shaikhyakubhossain&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)" /></p>
+<p><img style="display: block; margin: auto;" align="center" src="https://github-profile-trophy.vercel.app/?username=shaikhyakubhossain&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" /></p>
 
 ### 🔝 Top Contributed Repo
 <p><img style="display: block; margin: auto;" align="center" src="https://github-contributor-stats.vercel.app/api?username=shaikhyakubhossain&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
