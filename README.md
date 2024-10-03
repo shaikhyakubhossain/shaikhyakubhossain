@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/shaikh-yakub-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-yakub-hossain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaikhyakubhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikhyakubhossain" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/shaikhyakubhossain](https://shaikh-yakub-hossain.itch.io/)" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=zfuVDK4SdKFq&format=png&color=000000" alt="shaikhyakubhossain" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -27,7 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhyakubhossain&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 ## 🏆 GitHub Trophies
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=shaikhyakubhossain&theme=dracula&no-frame=true&no-bg=false&margin-w=4" /></p>
+<p><img align="center" src="[https://github-profile-trophy.vercel.app/?username=shaikhyakubhossain&theme=dracula&no-frame=true&no-bg=false&margin-w=4](https://github-profile-trophy.vercel.app/?username=shaikhyakubhossain&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)" /></p>
 
 ### ✍️ Random Dev Quote
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></p>
