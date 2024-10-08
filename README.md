@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shaikh Yakub Hossain</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
-<p align="center"> <img width="300" height="auto" src="https://i.ibb.co/C2Zm1qj/test2.gif" alt="" /> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhyakubhossain&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaikhyakubhossain" /> </p>
-
 
 🔭 I’m currently working on [Chat App](https://github.com/shaikhyakubhossain/chat-app)
 
 🌱 I’m currently learning NextJS, ReactJS<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me shaikhyakubhossain@gmail.com<br><br>📄 Know about my experiences, [resume](https://resume-website-next-js.vercel.app/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -30,8 +25,11 @@
 <p><img style="display: block; margin: auto;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhyakubhossain&theme=neon&hide_border=false" /></p><br/>
 <p><img style="display: block; margin: auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhyakubhossain&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
+<p align="center"> <img width="600" height="auto" src="https://i.ibb.co/4pJkzW2/text3.gif" alt="Synthwave" /> </p>
+
 ## 🏆 GitHub Trophies
 <p><img style="display: block; margin: auto;" align="center" src="https://github-profile-trophy.vercel.app/?username=shaikhyakubhossain&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" /></p>
+
 
 ### 🔝 Top Contributed Repo
 <p><img style="display: block; margin: auto;" align="center" src="https://github-contributor-stats.vercel.app/api?username=shaikhyakubhossain&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
