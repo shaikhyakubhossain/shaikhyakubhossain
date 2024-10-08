@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
-<p align="center"> <img src="https://i.ibb.co/C2Zm1qj/test2.gif" alt="" /> </p>
+<p align="center"> <img width="640" height="480" src="https://i.ibb.co/C2Zm1qj/test2.gif" alt="" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhyakubhossain&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaikhyakubhossain" /> </p>
 
