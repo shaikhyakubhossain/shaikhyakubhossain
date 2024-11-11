@@ -38,4 +38,6 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-<p><img style="display: block; margin: auto;" align="center" src="https://github-contributor-stats.vercel.app/api?username=shaikhyakubhossain&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=shaikhyakubhossain&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
