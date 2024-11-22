@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhyakubhossain&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaikhyakubhossain" /> </p>
 
-🔭 I’m currently working on side projects<br><br>
+🔭 I’m currently working on side projects<br>
 
 🌱 I’m currently learning NextJS, ReactJS<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me shaikhyakubhossain@gmail.com<br><br>📄 Know about my experiences, [resume](https://resume-website-next-js.vercel.app/)
 
