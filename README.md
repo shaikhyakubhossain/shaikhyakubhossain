@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhyakubhossain&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaikhyakubhossain" /> </p>
 
-🔭 I’m currently working on side projects<br><br>🌱 I’m currently learning NextJS, ReactJS<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me shaikhyakubhossain@gmail.com<br><br>📄 Know about my experiences, [resume](https://resume-website-next-js.vercel.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://yakubhossain.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=mEG1R2bTp2RI&format=png&color=00FF22" alt="Port" height="30" width="30" /></a>
